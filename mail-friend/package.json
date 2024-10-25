@@ -1,0 +1,26 @@
+{
+  "name": "node-mailer",
+  "version": "1.0.0",
+  "description": "Node Mailer to send emails from node server",
+  "main": "app.js",
+  "scripts": {
+    "test": "This is mailer module"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SoniyaDas31/node-mailer.git"
+  },
+  "keywords": [
+    "node",
+    "mailer"
+  ],
+  "author": "Subbulakshmi Das",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SoniyaDas31/node-mailer/issues"
+  },
+  "homepage": "https://github.com/SoniyaDas31/node-mailer#readme",
+  "dependencies": {
+    "nodemailer": "^6.9.15"
+  }
+}
